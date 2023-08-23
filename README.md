@@ -28,6 +28,7 @@ The data comprises of information on the following parameters:
 - Language
 
 Descriptions and Entity Relationship Diagram can be found in the Rockbuster Data Dictionary. 
+
 Visualizations for this project can be found on Tableau_links file in this repository
 
 
